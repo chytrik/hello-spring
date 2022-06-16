@@ -1,4 +1,4 @@
-# hello-spring 3
+# hello-spring 1
 
 This is a simple "Hello World!" web app using the Spring Boot java framework:
 [http://spring.io](http://spring.io).
